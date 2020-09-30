@@ -107,6 +107,9 @@ h1{
 	color: #fff;
 	border: 1px solid #fff;
 }
+.btn-nav:hover{
+	background-color: #bf55ec;
+}
 
 
 .colorchange{
