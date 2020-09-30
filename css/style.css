@@ -97,6 +97,10 @@ h1{
 	border: 1px solid #bf55ec;
 }
 
+.btn-nav:hover{
+	background-color: #fff;
+}
+
 
 .btn-nav{
 	background-color: transparent;
